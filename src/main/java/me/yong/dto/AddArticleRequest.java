@@ -1,4 +1,4 @@
-package me.yong.service;
+package me.yong.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
