@@ -5,32 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86368deb-c830-41a7-b5c1-bd40b2b4259b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yong/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yong/controller/BlogApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yong/controller/ExampleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yong/domain/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yong/dto/AddArticleRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yong/dto/ArticleResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yong/dto/UpdateArticleRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yong/repository/BlogRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yong/service/BlogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/me/yong/controller/BlogApiControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/config/TokenAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/config/TokenAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/config/jwt/JwtProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/config/jwt/JwtProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/config/jwt/TokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/config/jwt/TokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/controller/BlogApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/controller/BlogApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/controller/BlogViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/controller/BlogViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/controller/ExampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/controller/ExampleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/controller/TokenApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/controller/TokenApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/controller/UserApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/controller/UserApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/controller/UserViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/controller/UserViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/domain/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/domain/RefreshToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/domain/RefreshToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/dto/AddUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/dto/AddUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/dto/ArticleListViewResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/dto/ArticleListViewResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/dto/ArticleViewResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/dto/ArticleViewResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/dto/CreateAccessTokenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/dto/CreateAccessTokenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/dto/CreateAccessTokenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/dto/CreateAccessTokenResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/repository/RefreshTokenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/repository/RefreshTokenRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/service/RefreshTokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/service/RefreshTokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/service/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/service/TokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/service/UserDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/service/UserDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yong/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yong/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/article.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/articleList.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/articleList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/newArticle.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/newArticle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/signup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +53,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,6 +61,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YongLeeCode&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YongLeeCode/BlogApi.git&quot;,
+    &quot;accountId&quot;: &quot;3a86471d-2708-4c73-8d99-efa5867192b9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -61,16 +82,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.BlogApiControllerTest.executor": "Run",
-    "Gradle.blog-api [:me.yong.Main.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.BlogApiControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.blog-api [:me.yong.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/js" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

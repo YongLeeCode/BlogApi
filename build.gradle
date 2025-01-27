@@ -28,6 +28,17 @@ dependencies {
 
     // 타임리프
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+
+    // 스프링 시큐리티 (login/logout 관련 스프링의 하위기능)
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+
+    // 타임리프에서 스프링 시큐리티 사용하기 위한 디펜던스
+    implementation 'org.thymeleaf.extras:thymeleaf-extras-springsecurity6'
+
+
+    // jwt
+    implementation 'io.jsonwebtoken:jjwt:0.9.1' //자바 jwt 라이브러리
+    implementation 'javax.xml.bind:jaxb-api:2.3.1' // xml문서와 java 객체 간 매핑 자동화
 }
 
 test {
