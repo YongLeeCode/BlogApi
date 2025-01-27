@@ -58,5 +58,4 @@ public class BlogApiController {
         Article article = blogService.updateArticle(id, req);
         return ResponseEntity.ok().body(article);
     }
-
 }
