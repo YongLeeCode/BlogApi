@@ -1,4 +1,4 @@
-package me.yong.controller;
+package me.yong.blogView.blogViewController;
 
 import java.time.LocalDate;
 import java.util.List;
