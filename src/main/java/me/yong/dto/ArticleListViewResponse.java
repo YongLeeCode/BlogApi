@@ -1,4 +1,4 @@
-package me.yong.blogView.blogViewDto;
+package me.yong.dto;
 
 import lombok.Getter;
 import me.yong.domain.Article;

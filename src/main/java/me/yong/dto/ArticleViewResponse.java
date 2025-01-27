@@ -1,9 +1,8 @@
-package me.yong.controller;
+package me.yong.dto;
 
 import java.time.LocalDateTime;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import me.yong.blogView.blogViewDto.ArticleListViewResponse;
 import me.yong.domain.Article;
 
 @NoArgsConstructor
