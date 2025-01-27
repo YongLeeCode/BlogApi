@@ -11,5 +11,10 @@ spring:
   h2:
     console:
       enabled: true
+
+jwt:
+  issuer: yong.lee.dev@gmail.com
+  secret_key: study-springboot
+
 #    #테이블 생성 후 data.sql실행
 #    defer-datasource-initialization: true
